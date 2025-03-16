@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\bin\Debug\net9.0\extimedocoracao.exe
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\bin\Debug\net9.0\extimedocoracao.deps.json
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\bin\Debug\net9.0\extimedocoracao.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\bin\Debug\net9.0\extimedocoracao.dll
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\bin\Debug\net9.0\extimedocoracao.pdb
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.dll
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\refint\extimedocoracao.dll
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.pdb
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\extimedocoracao.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\extimedocoracao\obj\Debug\net9.0\ref\extimedocoracao.dll
